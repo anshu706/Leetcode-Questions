@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshu706/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anshu706/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anshu706/Leetcode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Hash Table
@@ -19,6 +20,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshu706/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/anshu706/Leetcode-Questions/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anshu706/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshu706/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
