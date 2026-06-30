@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anshu706/Leetcode-Questions/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/anshu706/Leetcode-Questions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshu706/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anshu706/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshu706/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshu706/Leetcode-Questions/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/anshu706/Leetcode-Questions/tree/master/0135-candy) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anshu706/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
