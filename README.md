@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anshu706/Leetcode-Questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/anshu706/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0135-candy](https://github.com/anshu706/Leetcode-Questions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshu706/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshu706/Leetcode-Questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshu706/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/anshu706/Leetcode-Questions/tree/master/0392-is-subsequence) |
 ## String
@@ -50,6 +52,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0015-3sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anshu706/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
 |  |
