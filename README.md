@@ -15,6 +15,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshu706/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anshu706/Leetcode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshu706/Leetcode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/anshu706/Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/anshu706/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/anshu706/Leetcode-Questions/tree/master/0392-is-subsequence) |
+| [3620-network-recovery-pathways](https://github.com/anshu706/Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshu706/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshu706/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/anshu706/Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,6 +80,7 @@
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshu706/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshu706/Leetcode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/anshu706/Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -86,12 +90,18 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshu706/Leetcode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/anshu706/Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshu706/Leetcode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/anshu706/Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anshu706/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/anshu706/Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
