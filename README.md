@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/anshu706/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0135-candy](https://github.com/anshu706/Leetcode-Questions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshu706/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anshu706/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anshu706/Leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshu706/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -60,11 +61,13 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshu706/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshu706/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/anshu706/Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshu706/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Breadth-First Search
 |  |
@@ -104,4 +107,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/anshu706/Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
