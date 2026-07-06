@@ -12,6 +12,7 @@
 | [0135-candy](https://github.com/anshu706/Leetcode-Questions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshu706/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0912-sort-an-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/anshu706/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/anshu706/Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anshu706/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0015-3sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/anshu706/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/anshu706/Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
@@ -93,6 +95,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0912-sort-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshu706/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshu706/Leetcode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/anshu706/Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
@@ -117,6 +120,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anshu706/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0912-sort-an-array) |
 ## Topological Sort
 |  |
 | ------- |
@@ -129,4 +133,20 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshu706/Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
