@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/anshu706/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anshu706/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/anshu706/Leetcode-Questions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshu706/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anshu706/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anshu706/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/anshu706/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/anshu706/Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshu706/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
