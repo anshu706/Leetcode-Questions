@@ -1,24 +1,24 @@
 class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& arr) {
-        int st = 0, end = arr.size() - 1;
+        int st = 1, end = arr.size() - 2;
 
-        while (st < end) {
+        while(st <= end) {
             int mid = st + (end - st) / 2;
 
-            // If mid element is smaller than the next, we are on the ascending slope.
-            // The peak must be to the right, strictly after mid.
-            if (arr[mid] < arr[mid + 1]) {
-                st = mid + 1;
-            } 
-            // If mid element is larger than or equal to the next, we are on the descending slope.
-            // The peak could be mid itself or to the left of mid.
+            // Found the peak
+            if(arr[mid-1] < arr[mid] && arr[mid] > arr[mid+1]) {
+                return mid;
+            }
+            // On descending slope -> peak is to the left
+            else if(arr[mid+1] < arr[mid]) {
+                end = mid - 1; // FIXED: shifted from st = mid + 1
+            }
+            // On ascending slope -> peak is to the right
             else {
-                end = mid;
+                st = mid + 1;  // FIXED: shifted from end = mid - 1
             }
         }
-        
-        // st and end converge to the peak index
-        return st;
+        return -1;
     }
 };
