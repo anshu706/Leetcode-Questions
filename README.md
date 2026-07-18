@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anshu706/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/anshu706/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshu706/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -95,6 +96,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshu706/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anshu706/Leetcode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
