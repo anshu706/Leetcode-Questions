@@ -15,6 +15,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshu706/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anshu706/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/anshu706/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/anshu706/Leetcode-Questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -99,6 +100,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshu706/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anshu706/Leetcode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshu706/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshu706/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
