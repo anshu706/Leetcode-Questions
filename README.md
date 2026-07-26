@@ -15,6 +15,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshu706/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anshu706/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anshu706/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/anshu706/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
@@ -95,6 +96,7 @@
 | ------- |
 | [0015-3sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anshu706/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/anshu706/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/anshu706/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anshu706/Leetcode-Questions/tree/master/0050-powx-n) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anshu706/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshu706/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshu706/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshu706/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
