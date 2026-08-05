@@ -158,6 +158,7 @@
 | [2685-count-the-number-of-complete-components](https://github.com/anshu706/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshu706/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshu706/Leetcode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/anshu706/Leetcode-Questions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshu706/Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anshu706/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshu706/Leetcode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/anshu706/Leetcode-Questions/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshu706/Leetcode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshu706/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/anshu706/Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
@@ -215,6 +217,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshu706/Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anshu706/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/anshu706/Leetcode-Questions/tree/master/3310-remove-methods-from-project) |
 ## Merge Sort
 |  |
 | ------- |
