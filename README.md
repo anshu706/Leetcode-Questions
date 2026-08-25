@@ -224,6 +224,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/anshu706/Leetcode-Questions/tree/master/1192-critical-connections-in-a-network) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshu706/Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anshu706/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshu706/Leetcode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -257,6 +258,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/anshu706/Leetcode-Questions/tree/master/1192-critical-connections-in-a-network) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshu706/Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anshu706/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/anshu706/Leetcode-Questions/tree/master/3310-remove-methods-from-project) |
@@ -403,4 +405,12 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anshu706/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/anshu706/Leetcode-Questions/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/anshu706/Leetcode-Questions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
