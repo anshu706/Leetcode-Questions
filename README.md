@@ -428,4 +428,8 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/anshu706/Leetcode-Questions/tree/master/1192-critical-connections-in-a-network) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anshu706/Leetcode-Questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
