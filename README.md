@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshu706/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/anshu706/Leetcode-Questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/anshu706/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/anshu706/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/anshu706/Leetcode-Questions/tree/master/0940-distinct-subsequences-ii) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anshu706/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/anshu706/Leetcode-Questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/anshu706/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshu706/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/anshu706/Leetcode-Questions/tree/master/0322-coin-change) |
