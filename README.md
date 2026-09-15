@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/anshu706/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshu706/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/anshu706/Leetcode-Questions/tree/master/0135-candy) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anshu706/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/anshu706/Leetcode-Questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/anshu706/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshu706/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -263,6 +265,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/anshu706/Leetcode-Questions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/anshu706/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/anshu706/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
