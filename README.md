@@ -153,6 +153,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anshu706/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/anshu706/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/anshu706/Leetcode-Questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/anshu706/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
@@ -359,6 +360,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anshu706/Leetcode-Questions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/anshu706/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/anshu706/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshu706/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anshu706/Leetcode-Questions/tree/master/0877-stone-game) |
@@ -428,6 +430,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/anshu706/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshu706/Leetcode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshu706/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshu706/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
