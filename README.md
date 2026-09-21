@@ -126,6 +126,7 @@
 | [0072-edit-distance](https://github.com/anshu706/Leetcode-Questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/anshu706/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/anshu706/Leetcode-Questions/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/anshu706/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0940-distinct-subsequences-ii](https://github.com/anshu706/Leetcode-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshu706/Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/anshu706/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
@@ -182,6 +183,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshu706/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/anshu706/Leetcode-Questions/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/anshu706/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshu706/Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/anshu706/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshu706/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -433,10 +435,12 @@
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/anshu706/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshu706/Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/anshu706/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshu706/Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
 |  |
