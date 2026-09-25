@@ -81,6 +81,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshu706/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1096-brace-expansion-ii](https://github.com/anshu706/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/anshu706/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshu706/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/anshu706/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
@@ -133,6 +134,7 @@
 | [0402-remove-k-digits](https://github.com/anshu706/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0940-distinct-subsequences-ii](https://github.com/anshu706/Leetcode-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshu706/Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/anshu706/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/anshu706/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshu706/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshu706/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -211,6 +213,7 @@
 | [0088-merge-sorted-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshu706/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0912-sort-an-array) |
+| [1096-brace-expansion-ii](https://github.com/anshu706/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/anshu706/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/anshu706/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshu706/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -262,6 +265,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/anshu706/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/anshu706/Leetcode-Questions/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/anshu706/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anshu706/Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/anshu706/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anshu706/Leetcode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -449,6 +453,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/anshu706/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshu706/Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/anshu706/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -475,6 +480,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/anshu706/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anshu706/Leetcode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
