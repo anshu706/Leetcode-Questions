@@ -131,6 +131,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshu706/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/anshu706/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/anshu706/Leetcode-Questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/anshu706/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/anshu706/Leetcode-Questions/tree/master/0392-is-subsequence) |
@@ -165,6 +166,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anshu706/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/anshu706/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/anshu706/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
@@ -492,6 +494,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anshu706/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/anshu706/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anshu706/Leetcode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
@@ -560,6 +563,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anshu706/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anshu706/Leetcode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshu706/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshu706/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
