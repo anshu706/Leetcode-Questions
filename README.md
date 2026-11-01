@@ -17,6 +17,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/anshu706/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anshu706/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/anshu706/Leetcode-Questions/tree/master/0322-coin-change) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anshu706/Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/anshu706/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshu706/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshu706/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -456,6 +457,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/anshu706/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/anshu706/Leetcode-Questions/tree/master/0062-unique-paths) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anshu706/Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/anshu706/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshu706/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anshu706/Leetcode-Questions/tree/master/0877-stone-game) |
